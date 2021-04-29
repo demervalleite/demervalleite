@@ -1,5 +1,5 @@
 ### OLÁ 👋
-Oi, Sou estudante de Gestão de Ti, tenho estudado para me tornar um desenvolvedor front-end, tenho me aplicado em tecnologias como HTML, CSS e Javascript,
+Sou estudante de Gestão de Ti, tenho estudado para me tornar um desenvolvedor front-end, tenho me aplicado em tecnologias como HTML, CSS e Javascript,
 porém tenho conhecimentos em gerenciador de banco de dados como SQL Server, My SQL, e tambem gestão agil como por exemplo Scrum 2020.  
 
 
