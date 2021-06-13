@@ -10,6 +10,12 @@ porém tenho conhecimentos em gerenciador de banco de dados como SQL Server, My 
  <img align="center" alt="Demerval-CSS" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Demerval-Js" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 <!--
 **demervalleite/demervalleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
