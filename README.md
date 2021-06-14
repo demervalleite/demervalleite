@@ -4,6 +4,7 @@ porém tenho conhecimentos em gerenciador de banco de dados como SQL Server, My 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demervalleite&layout=compact&langs_count=16&theme=dracula"/>
+  display:flex
 </div>
 
 ![Demerval Leite](https://github-readme-stats.vercel.app/api?username=demervalleite&theme=radical)
