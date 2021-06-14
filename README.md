@@ -2,12 +2,13 @@
 Sou estudante de Gestão de Ti, tenho estudado para me tornar um desenvolvedor front-end, tenho me aplicado em tecnologias como HTML, CSS e Javascript,
 porém tenho conhecimentos em gerenciador de banco de dados como SQL Server, My SQL, e também Gestão Agil por exemplo Scrum 2020.  
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demervalleite&layout=compact&langs_count=16&theme=dracula"/>
-  display:flex
-</div>
+
 
 ![Demerval Leite](https://github-readme-stats.vercel.app/api?username=demervalleite&theme=radical)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demervalleite&layout=compact&langs_count=16&theme=dracula"/>
+  
+</div>
 
 
 <div style="display: inline_block"><br>
