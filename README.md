@@ -13,11 +13,7 @@ porém tenho conhecimentos em gerenciador de banco de dados como SQL Server, My 
  <img align="center" alt="Demerval-HTML" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Demerval-CSS" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Demerval-Js" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
-<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
-<! - em seu corpo ->
-<i class = "devicon-mysql-plain colori"> </i>
-                                                                   
  </div>
   
 
