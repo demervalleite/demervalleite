@@ -1,5 +1,5 @@
 ### Olá eu sou o Demerval 👋
-Sou estudante de Gestão de Ti, tenho estudado para me tornar um desenvolvedor Java Web, estou fazendo transição de carreira, estudo pelas manha antes do trabalho e tambem ao chegar a noite, meu maior desejo é recceber uma oportunidade para me desenvolver.
+Sou estudante de Gestão de Ti, tenho estudado para me tornar um desenvolvedor Java Web, estou fazendo transição de carreira, estudo pelas manhãs antes do trabalho e tambem ao chegar a noite, meu maior desejo é recceber uma oportunidade para me desenvolver.
 </div><br/>
 
 ### Para me encontrar 
