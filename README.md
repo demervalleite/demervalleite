@@ -8,7 +8,6 @@ Sou estudante de Gestão de Ti, tenho estudado para me tornar um desenvolvedor J
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/demervalleite2/)
 
 
-
 ### Tecnologias que uso
  
 
